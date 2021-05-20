@@ -198,7 +198,8 @@
             app:layout_constraintEnd_toEndOf="@+id/button7"
             app:layout_constraintStart_toStartOf="@+id/button7"
             app:layout_constraintTop_toBottomOf="@+id/button7"
-            app:srcCompat="@drawable/ic_bookmark" />
+            app:srcCompat="@drawable/ic_bookmark"
+            tools:ignore="VectorDrawableCompat" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
